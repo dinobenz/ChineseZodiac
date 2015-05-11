@@ -9,3 +9,8 @@ We use [Travis CI](http://travis-ci.org/) to verify the build: ![Artemis Build](
 ```shell
 PM> Install-Package Dinobenz.ChineseZodiac
 ```
+
+## Usage
+```shell
+var year = DateTime.Today.ToChineseZodiac();
+```
