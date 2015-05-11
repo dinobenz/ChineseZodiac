@@ -1,0 +1,11 @@
+## Travis CI Integration
+language: csharp
+solution: csharp/ChineseZodiac.sln
+
+install:
+  - sudo apt-get install nunit-console
+  - nuget restore csharp/ChineseZodiac.sln
+
+script:
+  - xbuild csharp/ChineseZodiac.sln
+  - nunit-console csharp/ChineseZodiac.Test/bin/Debug/ChineseZodiac.Test.dll
