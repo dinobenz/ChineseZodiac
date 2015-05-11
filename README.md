@@ -14,3 +14,6 @@ PM> Install-Package Dinobenz.ChineseZodiac
 ```shell
 var year = DateTime.Today.ToChineseZodiac();
 ```
+
+## Sample result
+goto https://github.com/dinobenz/ChineseZodiac/wiki/Sample-result
