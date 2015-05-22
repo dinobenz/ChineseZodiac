@@ -1,9 +1,9 @@
+[![Build status](https://api.travis-ci.org/dinobenz/ChineseZodiac.png)](https://travis-ci.org/dinobenz/ChineseZodiac)
+[![Nuget Version](https://img.shields.io/nuget/v/Dinobenz.ChineseZodiac.svg)](https://www.nuget.org/packages/Dinobenz.ChineseZodiac)
+[![Nuget Downloads](https://img.shields.io/nuget/dt/Dinobenz.ChineseZodiac.svg)](https://www.nuget.org/packages/Dinobenz.ChineseZodiac)
+
 # ChineseZodiac
 การหาปีนักษัตร
-
-## Building
-
-We use [Travis CI](http://travis-ci.org/) to verify the build: ![Artemis Build](https://api.travis-ci.org/dinobenz/ChineseZodiac.png)
 
 ## Installing
 ```shell
