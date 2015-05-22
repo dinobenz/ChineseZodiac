@@ -8,4 +8,4 @@ install:
 
 script:
   - xbuild csharp/ChineseZodiac.sln
-  - nunit-console csharp/ChineseZodiac.Test/bin/Debug/ChineseZodiac.Test.dll
+  - nunit-console csharp/ChineseZodiac.Test/bin/Debug/Dinobenz.ChineseZodiac.Test.dll
